@@ -1,7 +1,6 @@
 from openai import OpenAI
 import lightbulb
 import hikari
-import os
 from env import *
 
 plugin = lightbulb.Plugin("chatgpt")
